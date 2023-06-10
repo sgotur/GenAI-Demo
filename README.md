@@ -1,1 +1,3 @@
 # GenAI-Demo
+
+This repo is created with the intention of creating multiple Generative AI demo using various AI model from the open soruce community like ChatGPT, Anthropic Claude, etc...
