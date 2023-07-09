@@ -1,0 +1,22 @@
+anthropic==0.2.10
+ai21
+amazon-transcribe
+matplotlib
+pillow
+langchain
+numpy
+black
+pandas
+pdf2image
+textract
+streamlit-chat
+pypdf
+pydot
+diagrams
+gremlinpython
+streamlit-agraph
+bokeh==2.4.3
+streamlit-bokeh-events
+stability-sdk[sagemaker] @ git+https://github.com/Stability-AI/stability-sdk.git@sagemaker
+protobuf==3.20.*
+sagemaker
